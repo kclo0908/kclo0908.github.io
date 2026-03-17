@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience and course materials.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Assistant
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**The Ohio State University**
 
-{% include courses.liquid %}
+- **CSE 5243 – Data Mining** *(Autumn 2024, Autumn 2025, Spring 2026)*
+- **CSE 5245 – Network Science** *(Spring 2025)*
+- **CSE 5241 – Database Systems** *(Autumn 2023, Spring 2024)*

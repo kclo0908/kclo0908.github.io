@@ -8,7 +8,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: KC.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>lo.311@osu.edu</p>
