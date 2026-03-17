@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Teaching Assistant
+## Graduate Teaching Associate
 
 **The Ohio State University**
 
