@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Ph.D. Student in <a href="https://cse.osu.edu/">Computer Science & Engineering</a> at <a href="https://www.osu.edu/">The Ohio State University</a>.
+  Advised by <a href="https://web.cse.ohio-state.edu/~parthasarathy.2/">Prof. Srinivasan Parthasarathy</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lo.311@osu.edu</p>
+    <p>Columbus, Ohio</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I am a PhD student in Computer Science and Engineering at The Ohio State University, advised by [Dr. Srinivasan Parthasarathy](https://tdai.osu.edu/people/parthasarathy.2). My research broadly focuses on **LLM & Agentic AI**, **fairness in machine learning**, and **LLM safety**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my PhD, I was an NLP Research Scientist at [Academia Sinica](https://www.sinica.edu.tw/en), where I conducted NLP research and developed real-world applications under the mentorship of [Dr. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/). Prior to Academia Sinica, I spent four years as a Software and Firmware Engineer at ASUSTeK Computer Inc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My recent work includes multi-agent frameworks for claim verification (ICWSM 2026), agentic AI for crisis response (ICDM 2025), fairness-aware federated graph learning (EAAMO 2025), assessing compositional reasoning capabilities of vision-language models, and jailbreak vulnerabilities in large reasoning models.

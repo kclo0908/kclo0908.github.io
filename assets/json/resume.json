@@ -1,221 +1,195 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kuan-Chieh Lo",
+    "label": "Ph.D. Student in Computer Science & Engineering",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lo.311@osu.edu",
+    "phone": "(+1)310-994-7190",
+    "summary": "Ph.D. student at The Ohio State University working on LLM & Agentic AI, misinformation detection, fairness in federated learning, and LLM safety.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Columbus",
+      "region": "Ohio",
+      "countryCode": "US"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kuan-chieh-lo",
+        "url": "https://linkedin.com/in/kuan-chieh-lo"
+      },
+      {
+        "network": "GitHub",
+        "username": "kclo0908",
+        "url": "https://github.com/kclo0908"
+      }
+    ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "The Ohio State University",
+      "location": "Columbus, Ohio",
+      "area": "Computer Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2022-08-01",
+      "endDate": "2027-08-01",
+      "highlights": [
+        "Advisor: Prof. Srinivasan Parthasarathy",
+        "Research: LLM & Agentic AI, Misinformation, Fairness, LLM Safety"
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "National Taipei University of Technology",
+      "location": "Taiwan",
+      "area": "Electrical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2012-09-01",
+      "endDate": "2014-08-01"
+    },
+    {
+      "institution": "National Changhua University of Education",
+      "location": "Taiwan",
+      "area": "Mechatronics Engineering",
+      "studyType": "B.S.",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-01"
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "The Ohio State University",
+      "position": "Graduate Student Researcher",
+      "location": "Columbus, Ohio",
+      "startDate": "2022-08-01",
+      "highlights": [
+        "Multi-Agent Adversarial Claim Verification (ICWSM 2026)",
+        "Agentic AI for Crisis Response (ICDM 2025)",
+        "Fairness in Federated Graph Learning (EAAMO 2025)",
+        "LLM Safety: Jailbreak Attacks on Large Reasoning Models (Under Review)",
+        "Compositionality Evaluation of VLMs"
+      ]
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Academia Sinica",
+      "position": "NLP Research Scientist",
+      "location": "Taipei, Taiwan",
+      "startDate": "2019-01-01",
+      "endDate": "2022-08-01",
+      "summary": "Mentor: Dr. Lun-Wei Ku",
+      "highlights": [
+        "Misinformation Mitigation via Recommendation Systems (WWW 2022, WSDM 2021)",
+        "Echo Chamber Reduction (WWW 2021)",
+        "Visual Storytelling Evaluation (ACL 2022)"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "name": "ASUSTeK Computer Inc.",
+      "position": "Software and Firmware Engineer",
+      "location": "Taiwan",
+      "startDate": "2014-01-01",
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Developed system firmware for ASUS products, including gaming desktops, business and consumer laptops."
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Claim Verification with Adversarial Reasoning and Planning",
+      "authors": ["Kuan-Chieh Lo", "Valerie Shalin", "Kelly Garrett", "Srinivasan Parthasarathy"],
+      "publisher": "International AAAI Conference on Web and Social Media (ICWSM)",
+      "releaseDate": "2026-05-01"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "FairWAG: Fairness-aware Weighted Aggregation for Graph Learning in a Federated Setting",
+      "authors": ["Kuan-Chieh Lo", "Yuhang He", "Yinglong Jiang", "Srinivasan Parthasarathy"],
+      "publisher": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)",
+      "releaseDate": "2025-11-01"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Crisis Observatory: Extracting Credible Signals During a Crisis in the Age of LLMs",
+      "authors": ["Kuan-Chieh Lo", "Pranav Maneriker", "Shreya Ganesh", "et al."],
+      "publisher": "IEEE International Conference on Data Mining (ICDM)",
+      "releaseDate": "2025-11-01"
+    },
+    {
+      "name": "VICTOR: An Implicit Approach to Mitigate Misinformation via Continuous Verification Reading",
+      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "publisher": "ACM Web Conference (WWW)",
+      "releaseDate": "2022-04-01"
+    },
+    {
+      "name": "Learning to Rank Visual Stories From Human Ranking Data",
+      "authors": ["Chao-Yi Hsu", "Yi-Wei Chu", "Victoria Chen", "Kuan-Chieh Lo", "Chung Chen", "Ting-Hao Huang", "Lun-Wei Ku"],
+      "publisher": "Association for Computational Linguistics (ACL)",
+      "releaseDate": "2022-05-01"
+    },
+    {
+      "name": "Escape from An Echo Chamber",
+      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "publisher": "ACM Web Conference (WWW)",
+      "releaseDate": "2021-06-01"
+    },
+    {
+      "name": "All the Wiser: Fake News Intervention Using User Reading Preferences",
+      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "publisher": "ACM International Conference on Web Search and Data Mining (WSDM)",
+      "releaseDate": "2021-03-01"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "LLM & Agentic AI",
+      "keywords": ["LangChain", "LangGraph", "RAG", "Multi-agent Orchestration", "MCP", "Agent Skills"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Machine Learning / Data Science",
+      "keywords": ["PyTorch", "TensorFlow", "Scikit-learn", "NLTK", "Pandas", "NumPy", "Matplotlib"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Data & Vector Databases",
+      "keywords": ["ChromaDB", "FAISS", "MongoDB", "MySQL"]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "Java", "JavaScript", "C/C++"]
+    },
+    {
+      "name": "Web Development & Tools",
+      "keywords": ["Flask", "Django", "Node.js", "Vue", "Docker", "Git", "Nginx"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Creativity in Large Language and Vision-Language Models",
+      "summary": "Investigated the compositional factors influencing creative output in LLMs and vision-language models (VLMs), analyzing how individual components interact to drive creativity and exploring controllability of creative generation across modalities."
+    },
+    {
+      "name": "LLM-Powered Agentic Chatbot for Bridal Consultation",
+      "summary": "Designed and developed a multi-agent AI system for a bridal company integrating a conversational LLM chatbot, a personalized recommender system agent, and a meeting scheduling agent into a unified pipeline."
+    },
+    {
+      "name": "LLM-Assisted Legal Document Processing System for Law Firms",
+      "summary": "Built an NLP pipeline for law firms leveraging LLMs and RAG to automatically retrieve semantically relevant past legal cases from a document corpus and populate structured legal documents."
     }
-  ]
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["LLM", "Agentic AI", "Misinformation", "Fairness", "NLP", "Multi-agent Systems"]
+    }
+  ],
+  "references": []
 }
