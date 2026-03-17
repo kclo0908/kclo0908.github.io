@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A selection of research projects and open-source work.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [research, software]
 horizontal: false
 ---

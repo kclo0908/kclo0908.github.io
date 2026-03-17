@@ -101,7 +101,7 @@
     },
     {
       "name": "FairWAG: Fairness-aware Weighted Aggregation for Graph Learning in a Federated Setting",
-      "authors": ["Kuan-Chieh Lo", "Yuhang He", "Yinglong Jiang", "Srinivasan Parthasarathy"],
+      "authors": ["Kuan-Chieh Lo", "Yuntian He", "Yuze Jiang", "Srinivasan Parthasarathy"],
       "publisher": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)",
       "releaseDate": "2025-11-01"
     },
@@ -113,25 +113,25 @@
     },
     {
       "name": "VICTOR: An Implicit Approach to Mitigate Misinformation via Continuous Verification Reading",
-      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "authors": ["Kuan-Chieh Lo", "Shih-Chieh Dai", "Aiping Xiong", "Jing Jiang", "Lun-Wei Ku"],
       "publisher": "ACM Web Conference (WWW)",
       "releaseDate": "2022-04-01"
     },
     {
       "name": "Learning to Rank Visual Stories From Human Ranking Data",
-      "authors": ["Chao-Yi Hsu", "Yi-Wei Chu", "Victoria Chen", "Kuan-Chieh Lo", "Chung Chen", "Ting-Hao Huang", "Lun-Wei Ku"],
+      "authors": ["Chi-Yang Hsu", "Yun-Wei Chu", "Vincent Chen", "Kuan-Chieh Lo", "Chacha Chen", "Ting-Hao Huang", "Lun-Wei Ku"],
       "publisher": "Association for Computational Linguistics (ACL)",
       "releaseDate": "2022-05-01"
     },
     {
       "name": "Escape from An Echo Chamber",
-      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "authors": ["Kuan-Chieh Lo", "Shih-Chieh Dai", "Aiping Xiong", "Jing Jiang", "Lun-Wei Ku"],
       "publisher": "ACM Web Conference (WWW)",
       "releaseDate": "2021-06-01"
     },
     {
       "name": "All the Wiser: Fake News Intervention Using User Reading Preferences",
-      "authors": ["Kuan-Chieh Lo", "Szu-Chi Dai", "Aiping Xiong", "Jingling Jiang", "Lun-Wei Ku"],
+      "authors": ["Kuan-Chieh Lo", "Shih-Chieh Dai", "Aiping Xiong", "Jing Jiang", "Lun-Wei Ku"],
       "publisher": "ACM International Conference on Web Search and Data Mining (WSDM)",
       "releaseDate": "2021-03-01"
     }
