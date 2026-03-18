@@ -103,7 +103,7 @@ cv:
         keywords: "Flask, Django, Node.js, Vue, Docker, Git, Nginx"
 
     Academic Services:
-      - company: Program Committee/Reviewer:
+      - company: Program Committee:
         position: Reviewer
         highlights:
           - "ICML (2026), ICWSM (2026), NeurIPS (2024), ACL (2024, 2022), AAAI (2022), IAAI (2022, 2021, 2020), NLPCC (2021), EMNLP (2020)"
