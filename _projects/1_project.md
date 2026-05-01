@@ -9,7 +9,7 @@ category: research
 
 **Venue:** ICWSM 2026
 
-We develop a multi-agent pipeline that decomposes complex claim verification into subtasks handled by specialized agents — including evidence retrieval, stance detection, and verdict aggregation. The system is designed to scale to real-world misinformation detection scenarios.
+CARP is a multi-agent framework for automated fact-checking that addresses two key failure modes in existing systems: confirmation bias in single-agent approaches and groupthink in homogeneous multi-agent systems. It introduces heterogeneous agent teams, powered by different language models, organized as adversarial support and refutation sides, combined with structured claim decomposition and multi-hop evidence retrieval.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/CARP.png" alt="CARP framework overview" class="img-fluid rounded z-depth-1" %}
 

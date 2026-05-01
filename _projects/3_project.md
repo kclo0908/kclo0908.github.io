@@ -9,7 +9,7 @@ category: research
 
 **Venue:** EAAMO 2025
 
-Federated learning on graphs introduces unique fairness challenges due to heterogeneous client distributions and structural biases. This project develops methods to enforce fairness constraints across decentralized clients without requiring data sharing.
+FairWAG addresses fairness challenges in federated graph learning, where multiple parties collaboratively train models without sharing raw data. This work proposes a weighted aggregation strategy that balances model performance with fairness across heterogeneous clients, ensuring that the globally aggregated model does not disproportionately disadvantage certain groups or subpopulations.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/FairWAG.png" alt="FairWAG framework overview" class="img-fluid rounded z-depth-1" %}
 

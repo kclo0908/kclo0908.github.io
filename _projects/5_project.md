@@ -7,6 +7,6 @@ importance: 5
 category: research
 ---
 
-Large reasoning models (e.g., chain-of-thought or process-reward-trained models) may exhibit distinct vulnerability profiles compared to standard LLMs. This project analyzes jailbreak strategies that exploit the reasoning process and proposes defenses.
+Large reasoning models (e.g., chain-of-thought or process-reward-trained models) may exhibit distinct vulnerability profiles compared to standard LLMs. This project analyzes jailbreak strategies that exploit the reasoning process.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/FakedThink.png" alt="FakedThink framework overview" class="img-fluid rounded z-depth-1" %}

@@ -9,7 +9,7 @@ category: research
 
 **Venue:** ICDM 2025
 
-This project explores how autonomous AI agents can assist in crisis response scenarios by processing heterogeneous data streams, coordinating information across stakeholders, and generating actionable recommendations under time pressure.
+The Crisis Observatory is a specialized, LLM-powered system designed to assist emergency responders and decision-makers in extracting credible, actionable information from the chaotic, high-velocity data streams of crisis situations.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/Crisis_Observatory.png" alt="Crisis Observatory framework overview" class="img-fluid rounded z-depth-1" %}
 

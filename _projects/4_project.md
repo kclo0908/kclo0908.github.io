@@ -7,7 +7,7 @@ importance: 4
 category: research
 ---
 
-We systematically evaluate how well state-of-the-art vision-language models handle compositional queries — questions that require jointly reasoning about multiple visual and linguistic concepts. We identify failure modes and propose diagnostic benchmarks.
+We systematically evaluate how well state-of-the-art vision-language models handle compositional queries: questions that require jointly reasoning about multiple visual and linguistic concepts. We identify failure modes and propose diagnostic benchmarks.
 
 {% include figure.liquid loading="eager" path="assets/img/projects/skill-comp.png" alt="Skill-Comp framework overview" class="img-fluid rounded z-depth-1" %}
 
